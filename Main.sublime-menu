@@ -1,0 +1,44 @@
+[
+  {
+    "children": [
+      {
+        "caption": "DanielUtils",
+        "children": [
+          {
+            "caption": "Combine",
+            "command": "combine"
+          },
+          {
+            "caption": "Replace JSON",
+            "command": "replace_json"
+          }
+        ],
+        "id": "DanielUtils",
+        "mnemonic": "R"
+      }
+    ],
+    "id": "tools"
+  },
+  {
+    "caption": "Preferences",
+    "children": [
+      {
+        "caption": "DanielUtils",
+        "children": [
+          {
+            "caption": "Combine",
+            "command": "combine"
+          },
+          {
+            "caption": "Replace JSON",
+            "command": "replace_json"
+          }
+        ],
+        "id": "DanielUtils",
+        "mnemonic": "R"
+      }
+    ],
+    "id": "preferences",
+    "mnemonic": "n"
+  }
+]
