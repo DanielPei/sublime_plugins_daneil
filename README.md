@@ -13,4 +13,4 @@ git clone https://github.com/DanielPei/sublime_plugins_daneil.git
 **Cmd + Shift + P** 调出 **Command Palette**, 选择对应的 **Daniel Utils :** 前缀的快捷命令 : 
 
 - **Combine** : 将当前文本的每一行作为一个字符串元素拼成一个 list ;
-- **Replace JSON** : 替换当前文件的 **‘**为 **”** ;
+- **Replace JSON** : 替换当前文件的 **‘** 为 **”** ;
